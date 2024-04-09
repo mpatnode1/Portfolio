@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Prog2_CardGame.Card">
+    <Position X="14" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAABAAAAAAAAEAAAAAAAAAgAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prog2_CardGame.CardGame">
+    <Position X="5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAQAAQAgAABACAAACAAAUAAAAQAAQAAAAAIoAAAA=</HashCode>
+      <FileName>CardGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prog2_CardGame.CardPile">
+    <Position X="11.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACICAAAAAAAAAgAEAAAAAAAIAAAAQAAAAAAAAAAEEAA=</HashCode>
+      <FileName>CardPile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prog2_CardGame.HigherOrLower">
+    <Position X="11.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAEAAAAABAAAAAIAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>HigherOrLower.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Prog2_CardGame.HighestMatch">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAABAACAAAERgAAAAAAAAAIAgIAAAEgBAgAAgAAAA=</HashCode>
+      <FileName>HighestMatch.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Prog2_CardGame.Menu">
+    <Position X="15.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAgAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prog2_CardGame.Player">
+    <Position X="17.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQCggAAAAIAAQAAAAEAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prog2_CardGame.Program">
+    <Position X="14" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prog2_CardGame.SameOrDifferent">
+    <Position X="9" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACABAAAAAAAAAAACAAAAIAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>SameOrDifferent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Prog2_CardGame.StandardDeck">
+    <Position X="9.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>StandardDeck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prog2_CardGame.TwoSuitDeck">
+    <Position X="9.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>TwoSuitDeck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prog2_CardGame.Utility">
+    <Position X="15.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Utility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Prog2_CardGame.IPlay">
+    <Position X="17.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>IPlay.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

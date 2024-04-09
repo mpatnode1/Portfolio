@@ -1,0 +1,89 @@
+﻿#include "pch-c.h"
+#ifndef _MSC_VER
+# include <alloca.h>
+#else
+# include <malloc.h>
+#endif
+
+
+#include "codegen/il2cpp-codegen-metadata.h"
+
+
+
+
+
+extern void GameManager_Awake_m4B6E8E2AF58C95C9A2A0C4637A34AE0892CB637F (void);
+extern void GameManager_Start_m87A71D65F3171A58DBDDBFB03832ADA65643D0E2 (void);
+extern void GameManager_Update_m7F29D8E933B8D21D2E67507979C0F12ACF87BB41 (void);
+extern void GameManager_SetUp_m1554656CBBFC743D3600581ECA7CF51FAF1AC1E0 (void);
+extern void GameManager_Instructions_m811139467906D1AEAC71091A4C9D4B0E59E46A5C (void);
+extern void GameManager_MakeLetterGuess_mC67CD397C8B3C81B5A72E7C193017F20F9ADA11A (void);
+extern void GameManager_ReplaceButton_mCD7DAEBFEB1D0808E92583DB44E36A3171650825 (void);
+extern void GameManager_CheckHangmanStatus_mC56DD68ACD169DA1F95EF43EF4D622C392AE3A90 (void);
+extern void GameManager_CheckWin_m1C70E8659EAFA6D31E5071450E8D730362E0C04B (void);
+extern void GameManager_Lose_mEA933A5A089DCE9100E8C8C79BD9D21992050CD5 (void);
+extern void GameManager_Restart_mCAD4B8EB332D65D94F493AD96956EC1777DC3854 (void);
+extern void GameManager__ctor_mF453CED520617BFB65C52405A964E06CF17DB368 (void);
+extern void SelectedWord_SelectWord_mA5F2FD962326BF2E271C61076C57B684ADD156E3 (void);
+extern void SelectedWord__ctor_m0B12A8341C972DE3B471471ED627BAA651457CE9 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033 (void);
+extern void UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1 (void);
+static Il2CppMethodPointer s_methodPointers[16] = 
+{
+	GameManager_Awake_m4B6E8E2AF58C95C9A2A0C4637A34AE0892CB637F,
+	GameManager_Start_m87A71D65F3171A58DBDDBFB03832ADA65643D0E2,
+	GameManager_Update_m7F29D8E933B8D21D2E67507979C0F12ACF87BB41,
+	GameManager_SetUp_m1554656CBBFC743D3600581ECA7CF51FAF1AC1E0,
+	GameManager_Instructions_m811139467906D1AEAC71091A4C9D4B0E59E46A5C,
+	GameManager_MakeLetterGuess_mC67CD397C8B3C81B5A72E7C193017F20F9ADA11A,
+	GameManager_ReplaceButton_mCD7DAEBFEB1D0808E92583DB44E36A3171650825,
+	GameManager_CheckHangmanStatus_mC56DD68ACD169DA1F95EF43EF4D622C392AE3A90,
+	GameManager_CheckWin_m1C70E8659EAFA6D31E5071450E8D730362E0C04B,
+	GameManager_Lose_mEA933A5A089DCE9100E8C8C79BD9D21992050CD5,
+	GameManager_Restart_mCAD4B8EB332D65D94F493AD96956EC1777DC3854,
+	GameManager__ctor_mF453CED520617BFB65C52405A964E06CF17DB368,
+	SelectedWord_SelectWord_mA5F2FD962326BF2E271C61076C57B684ADD156E3,
+	SelectedWord__ctor_m0B12A8341C972DE3B471471ED627BAA651457CE9,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1_Get_mBEB95BEB954BB63E9710BBC7AD5E78C4CB0A0033,
+	UnitySourceGeneratedAssemblyMonoScriptTypes_v1__ctor_mE70FB23ACC1EA12ABC948AA22C2E78B2D0AA39B1,
+};
+static const int32_t s_InvokerIndices[16] = 
+{
+	4359,
+	4359,
+	4359,
+	4359,
+	4359,
+	3547,
+	3547,
+	4359,
+	4359,
+	4359,
+	4359,
+	4359,
+	4261,
+	4359,
+	6253,
+	4359,
+};
+IL2CPP_EXTERN_C const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule;
+const Il2CppCodeGenModule g_AssemblyU2DCSharp_CodeGenModule = 
+{
+	"Assembly-CSharp.dll",
+	16,
+	s_methodPointers,
+	0,
+	NULL,
+	s_InvokerIndices,
+	0,
+	NULL,
+	0,
+	NULL,
+	0,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+	NULL,
+};

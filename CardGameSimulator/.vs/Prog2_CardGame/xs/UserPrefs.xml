@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{00EBC18F-174D-4846-A035-606881342197}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CardGame.cs">
+    <Files>
+      <File FileName="HighestMatch.cs" />
+      <File FileName="Menu.cs" />
+      <File FileName="Player.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="Card.cs" Line="1" Column="1" />
+      <File FileName="CardPile.cs" Line="11" Column="77" />
+      <File FileName="CardGame.cs" Line="98" Column="56" />
+      <File FileName="StandardDeck.cs" Line="12" Column="27" />
+      <File FileName="SameOrDifferent.cs" Line="41" Column="1" />
+      <File FileName="Utility.cs" />
+      <File FileName="TwoSuitDeck.cs" />
+      <File FileName="IPlay.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prog2_CardGame" expanded="True">
+            <Node name="Prog2_CardGame" expanded="True">
+              <Node name="CardGame.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Prog2__CardGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

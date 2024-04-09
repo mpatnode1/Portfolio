@@ -1,0 +1,34 @@
+intro DIALOGUE
+    player inputs name
+
+    dialogue choice - hear history of establishment? (NO EFFECT ON ENDING)
+    1. hear history
+        gerty asks for lady finger
+        1. ability to bring up UnBread restaraunt
+            gives player 25 extra points
+    2. No history
+        1. Tells gerty theres no lady fingers - cannot bring up UnBread restaraunt
+            player earns no extra points
+
+    Gerty offers player extra dime
+    1. Accept dime
+        1. Correct change input
+            Ending 1 -gives 50 points
+        2. Less than 50 off of change input
+            Ending 3 - 25 points
+        3. More than 50 off of change input
+            Ending 4 - 25 points
+    2. Trys to tell customer they dont need extra dime
+       1. Correct change input
+            Ending 1 -gives 50 points
+        2. Less than 50 off of change input
+            Ending 3 - 25 points
+        3. More than 50 off of change input
+            Ending 4 - 25 points
+    3. gets mad at customer - CHOICE NEVER ASKS FOR CHANGE INPUT
+        1. continues to rage
+            Ending 2 - 50 points
+        2. plays it off like it didnt happen 
+            gerty takes back dime
+            player gets extra 25 points
+             Ending 1 - gives 25 points

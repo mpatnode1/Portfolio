@@ -1,0 +1,37 @@
+Meghan Patnode - Programming 101 Midterm
+
+
+ASCII ART LINKS:
+FULLBODY: https://textart.sh/topic/anatomy
+ZOMBIE HAND: https://textart.sh/topic/blood
+TITLE GENERATOR: https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20 Font: Patorjk-HeX
+
+Code Credit:
+While the code has been significantly edited, I used the examples from https://www.w3schools.com/cs/cs_inheritance.php as a guide for my MenuItem file.
+
+Inheritance is when one class takes on the fields and methods of another, or “inherits” them. This is done when one class is a subclass of a larger class. Such as if you had a dog class and cat class, and needed both to maintain the attributes of an animal class. This is done through the syntax subclass : class when declaring the subclass.
+    This is used with my MenuItem file, which is formatted so that if more menu items were added it could be reused. My icecream file is a child of the MenuItem file, so that it can call upon the variables used in it. 
+    public class MenuItem{
+    public string ItemName;
+
+    public virtual void MenuDisplay(){
+        Console.WriteLine("A ticket has been put in with the kitchen.");
+    }
+
+}
+This is also my example for polymorphism, as the file IceCream file overrides the display text. This is helpful because other menu items wouldn't need to override the display text, because some items would be made through the kitchen as the display text states.
+    class IceCream : MenuItem{
+
+    public override void MenuDisplay(){
+        Console.WriteLine("It looks like the ice cream machine is behind you. You won't need to get help from the kitchen for this one.");
+    }
+
+    public void MenuItemName(){
+        Console.ReadLine();
+        Console.WriteLine("New Quest: Make a " + ItemName);
+    }
+}
+Polymorphism involves the usage of inheritance. When you wish to maintain certain aspects of an inherited master class but have the subclasses diverge you use polymorphism. This is done through an inclusion of virtual at the start of the master class’s method, and an override in the method of the subclass. Virtual is a modifier that allows the method from the original class to be overridden when needed.
+Encapsulation encloses information by declaring the variables to private. Therefore, an accessor uses the get and set method to retrieve the private data in order to use it. 
+    
+The three variables I used were the x input value, the score, history response. The x input variable is a double that the player changes and based on the number the player inputs, the ending changes. The score changes throughout the game based on the choices the player makes, and which endings they choose. The variable for history response effects which dialogue choices the player has access to later in the game.

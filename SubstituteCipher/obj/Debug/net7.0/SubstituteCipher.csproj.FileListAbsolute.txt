@@ -1,0 +1,15 @@
+/Users/meghanpatnode/Programming/SubstituteCipher/obj/Debug/net7.0/SubstituteCipher.csproj.AssemblyReference.cache
+/Users/meghanpatnode/Programming/SubstituteCipher/obj/Debug/net7.0/SubstituteCipher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meghanpatnode/Programming/SubstituteCipher/obj/Debug/net7.0/SubstituteCipher.AssemblyInfoInputs.cache
+/Users/meghanpatnode/Programming/SubstituteCipher/obj/Debug/net7.0/SubstituteCipher.AssemblyInfo.cs
+/Users/meghanpatnode/Programming/SubstituteCipher/obj/Debug/net7.0/SubstituteCipher.csproj.CoreCompileInputs.cache
+/Users/meghanpatnode/Programming/SubstituteCipher/bin/Debug/net7.0/SubstituteCipher
+/Users/meghanpatnode/Programming/SubstituteCipher/bin/Debug/net7.0/SubstituteCipher.deps.json
+/Users/meghanpatnode/Programming/SubstituteCipher/bin/Debug/net7.0/SubstituteCipher.runtimeconfig.json
+/Users/meghanpatnode/Programming/SubstituteCipher/bin/Debug/net7.0/SubstituteCipher.dll
+/Users/meghanpatnode/Programming/SubstituteCipher/bin/Debug/net7.0/SubstituteCipher.pdb
+/Users/meghanpatnode/Programming/SubstituteCipher/obj/Debug/net7.0/SubstituteCipher.dll
+/Users/meghanpatnode/Programming/SubstituteCipher/obj/Debug/net7.0/refint/SubstituteCipher.dll
+/Users/meghanpatnode/Programming/SubstituteCipher/obj/Debug/net7.0/SubstituteCipher.pdb
+/Users/meghanpatnode/Programming/SubstituteCipher/obj/Debug/net7.0/SubstituteCipher.genruntimeconfig.cache
+/Users/meghanpatnode/Programming/SubstituteCipher/obj/Debug/net7.0/ref/SubstituteCipher.dll

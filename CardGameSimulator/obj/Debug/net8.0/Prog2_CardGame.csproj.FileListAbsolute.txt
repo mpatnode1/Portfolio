@@ -1,0 +1,15 @@
+/Users/meghanpatnode/Documents/GitHub/Programming2/Prog2_CardGame/obj/Debug/net8.0/Prog2_CardGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meghanpatnode/Documents/GitHub/Programming2/Prog2_CardGame/obj/Debug/net8.0/Prog2_CardGame.AssemblyInfoInputs.cache
+/Users/meghanpatnode/Documents/GitHub/Programming2/Prog2_CardGame/obj/Debug/net8.0/Prog2_CardGame.AssemblyInfo.cs
+/Users/meghanpatnode/Documents/GitHub/Programming2/Prog2_CardGame/obj/Debug/net8.0/Prog2_CardGame.csproj.CoreCompileInputs.cache
+/Users/meghanpatnode/Documents/GitHub/Programming2/Prog2_CardGame/obj/Debug/net8.0/Prog2_CardGame.sourcelink.json
+/Users/meghanpatnode/Documents/GitHub/Programming2/Prog2_CardGame/bin/Debug/net8.0/Prog2_CardGame
+/Users/meghanpatnode/Documents/GitHub/Programming2/Prog2_CardGame/bin/Debug/net8.0/Prog2_CardGame.deps.json
+/Users/meghanpatnode/Documents/GitHub/Programming2/Prog2_CardGame/bin/Debug/net8.0/Prog2_CardGame.runtimeconfig.json
+/Users/meghanpatnode/Documents/GitHub/Programming2/Prog2_CardGame/bin/Debug/net8.0/Prog2_CardGame.dll
+/Users/meghanpatnode/Documents/GitHub/Programming2/Prog2_CardGame/bin/Debug/net8.0/Prog2_CardGame.pdb
+/Users/meghanpatnode/Documents/GitHub/Programming2/Prog2_CardGame/obj/Debug/net8.0/Prog2_CardGame.dll
+/Users/meghanpatnode/Documents/GitHub/Programming2/Prog2_CardGame/obj/Debug/net8.0/refint/Prog2_CardGame.dll
+/Users/meghanpatnode/Documents/GitHub/Programming2/Prog2_CardGame/obj/Debug/net8.0/Prog2_CardGame.pdb
+/Users/meghanpatnode/Documents/GitHub/Programming2/Prog2_CardGame/obj/Debug/net8.0/Prog2_CardGame.genruntimeconfig.cache
+/Users/meghanpatnode/Documents/GitHub/Programming2/Prog2_CardGame/obj/Debug/net8.0/ref/Prog2_CardGame.dll

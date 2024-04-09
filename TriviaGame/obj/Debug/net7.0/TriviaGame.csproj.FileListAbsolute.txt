@@ -1,0 +1,15 @@
+/Users/meghanpatnode/Programming/TriviaGame/obj/Debug/net7.0/TriviaGame.csproj.AssemblyReference.cache
+/Users/meghanpatnode/Programming/TriviaGame/obj/Debug/net7.0/TriviaGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meghanpatnode/Programming/TriviaGame/obj/Debug/net7.0/TriviaGame.AssemblyInfoInputs.cache
+/Users/meghanpatnode/Programming/TriviaGame/obj/Debug/net7.0/TriviaGame.AssemblyInfo.cs
+/Users/meghanpatnode/Programming/TriviaGame/obj/Debug/net7.0/TriviaGame.csproj.CoreCompileInputs.cache
+/Users/meghanpatnode/Programming/TriviaGame/bin/Debug/net7.0/TriviaGame
+/Users/meghanpatnode/Programming/TriviaGame/bin/Debug/net7.0/TriviaGame.deps.json
+/Users/meghanpatnode/Programming/TriviaGame/bin/Debug/net7.0/TriviaGame.runtimeconfig.json
+/Users/meghanpatnode/Programming/TriviaGame/bin/Debug/net7.0/TriviaGame.dll
+/Users/meghanpatnode/Programming/TriviaGame/bin/Debug/net7.0/TriviaGame.pdb
+/Users/meghanpatnode/Programming/TriviaGame/obj/Debug/net7.0/TriviaGame.dll
+/Users/meghanpatnode/Programming/TriviaGame/obj/Debug/net7.0/refint/TriviaGame.dll
+/Users/meghanpatnode/Programming/TriviaGame/obj/Debug/net7.0/TriviaGame.pdb
+/Users/meghanpatnode/Programming/TriviaGame/obj/Debug/net7.0/TriviaGame.genruntimeconfig.cache
+/Users/meghanpatnode/Programming/TriviaGame/obj/Debug/net7.0/ref/TriviaGame.dll

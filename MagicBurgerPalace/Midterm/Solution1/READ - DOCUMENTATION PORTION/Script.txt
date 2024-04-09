@@ -1,0 +1,186 @@
+Script: (with ending pathways)
+
+
+Congrats on your new job at the Magic Burger Palace! 
+The most delicious way for adventurers to take a rest on their treacherous journeys!
+What should we put on your nametag?
+PLAYER INPUT NAME
+{“Welcome to your new job,” + playerinput}
+
+Did you wanna hear some of the history of the establishment, or get right into it?
+
+IF YES, 
+This place actually used to be a bank, yeah it’s crazy right, you can’t even tell anymore. I mean that’s cause we bulldozed right through it and replaced it with AMAZING sterile white and red walls. Really takes a modern feel to the idea of fast casual dining. 
+We actually just opened a couple months back, before this it was a sub shop called “The UnBread.” You don’t wanna know why they got shut down..
+
+ANYWAYS.
+For now you will get started on registering.
+You’ll want to treat customers with excellent service 
+(Both for our business and for your own safety, who knows what kind of creatures are out there).
+
+Gertrude Enters
+	Level 10 Wight (Undead)
+	Proficiency in Wisdom
+	Weakness in Charisma
+
+[Zombie ASCII Art]
+
+Gerty stalks up to the counter at a slow zombie-like pace and immediately hits you with an ever classic lead-paint stare. 
+
+“Can I get a grilled Lady Finger?”
+
+You’re not exactly sure you know what she’s talking about… 
+
+IF YES EARLIER,
+
+                                                                                       
+     Ascii art zombie hand
+
+
+Sorry ma'am, I think you’re mistaken. There used to be a restaurant here that served that. We only have burgers, fries, milkshakes, that kind of stuff. [25 points]
+-She is silent, internally debating between trying to convince you that she was just here last week and accepting defeat. 
+-While you are certain there is still a part of her that believes that you are actually just plotting against her and withholding her sweet, sweet lady fingers, her resolve weakens, “Hrmmm… Hot fudge sundae then.”
+-There is no hot fudge sundae. This store has never sold a hot fudge sundae. You decide it’s best not to argue further. You put a scoop of ice cream, meant for the vanilla cones you DO sell, into a small soda cup. -Then, you microwave a small amount of chocolate milkshake and drizzle it on top. It does not look appetizing. She won’t mind right? Her jaw is barely hanging on as it is…
+
+
+IF NO EARLIER
+An odd request, not only would you not recommend grilling a sponge cake, you don’t serve it either way.
+We don’t sell that here… 
+Are you serious? I think I’ve been around the block a couple more times than you have, sweetie. I was just here last week and I ordered it. You just don’t want to do your job. Fine, I’ll get a hot fudge sundae then.
+
+
+NOT A DIALOGUE CHOICE
+There is no hot fudge sundae. This store has never sold a hot fudge sundae. You decide it’s best not to argue further. You put a scoop of ice cream, meant for the vanilla cones you DO sell, into a small soda cup. -Then, you microwave a small amount of chocolate milkshake and drizzle it on top. It does not look appetizing. She won’t mind right? Her jaw is barely hanging on as it is…
+
+You’re not exactly sure how to ring this up. You decide on inputting it as an ice cream cone, it’s close enough anyways.
+You are silently begging that the customer does not pay enough attention to the screen on her end to see that she is not, in fact, being charged for a hot fudge sundae.
+“Your total is 5.46$” You tell her. She hands you a ten dollar bill. You type in the number on the register.
+It alerts you that her change is 4.54$.
+You start counting out the change from the register.
+…
+…
+…
+“Wait! I have a dime!” Gerty tells you. 
+
+
+
+[DIME ASCII ART https://textart.sh/topic/dime]
+
+You are distraught. A dime can in no way benefit this exchange. There is no way to tell by the consistently displeased look on the customer’s face whether they have no concept of what their total is or simply do not know what a dime is. What will you do?
+
+Accept the dime. 
+Including the rogue dime, what is the customer’s change?
+		
+		CORRECT INPUT
+[Input Answer]
+She grabs the change and the cup, walking off without saying a word. Despite the lackluster customer engagement, you’d say this was a success.
+[50 points]
+That was a beautiful job done, sport. You knocked it out of the park. Why don’t we tally up your points, then you can go ahead and take the rest of the day off? 
+Huh? More customers?
+Haha, this is a fast food joint in the middle of a magical forest that you can only get to through a side path with a dungeon key. We don’t see many customers.
+Plus, it’s a Wednesday.
+ENDING: Thank God I Got Cut Early
+
+ENDING 1 of 4
+
+		INCORRECT INPUT
+[Input Answer]
+She grabs the change and the cup, walking off without saying a word. Despite the lackluster customer engagement, you’d say this was a success. Neither you nor her comment that you’ve given her the incorrect change.
+[25 points]
+
+INCORRECT INPUT >50
+Duuuude, your register’s short and it’s only been one customer. What’s going on with you man. You’re never like this. 
+I would know, because as I mentioned before, my guy Asmodeus the High Wizard has been watching you for the past few weeks. 
+Go take a walk, clear your head. Maybe give it another shot tomorrow, sport.
+ENDING 3: I’m not mad, just disappointed.
+
+ENDING 3 of 4
+
+INCORRECT INPUT <100
+Your register’s short and it’s only been one transaction.
+Bro.
+There’s no way you thought that was the right amount.
+I’m sorry man, we’re gonna have to let you go. Empty your locker and head out, I gotta go call corporate about the investments in our wizard hiring team.
+ENDING 4: Why?
+
+ENDING 4 of 4
+
+
+
+
+Tell the customer “Sorry Ma'am, I’ve already input the amount of change you gave me.”
+Gerty is staring open-mouthed at her phone like an iPad baby. You can’t break through the trance of her friend’s grandkids’ facebook photos.
+Including the rogue dime, what is her change?
+
+		CORRECT INPUT
+[Input Answer]
+She grabs the change and the cup, walking off without saying a word. Despite the lackluster customer engagement, you’d say this was a success.
+[50 points]
+That was a beautiful job done, sport. You knocked it out of the park. Why don’t we tally up your points, then you can go ahead and take the rest of the day off? 
+Huh? More customers?
+Haha, this is a fast food joint in the middle of a magical forest that you can only get to through a side path with a dungeon key. We don’t see many customers.
+Plus, it’s a Wednesday.
+ENDING: Thank God I Got Cut Early
+
+ENDING 1 of 4
+
+		INCORRECT INPUT
+[Input Answer]
+She grabs the change and the cup, walking off without saying a word. Despite the lackluster customer engagement, you’d say this was a success. Neither you nor her comment that you’ve given her the incorrect change.
+[25 points]
+
+INCORRECT INPUT >50
+Duuuude, your register’s short and it’s only been one customer. What’s going on with you man. You’re never like this. 
+I would know, because as I mentioned before, my guy Asmodeus the High Wizard has been watching you for the past few weeks. 
+Go take a walk, clear your head. Maybe give it another shot tomorrow, sport.
+ENDING 3: I’m not mad, just disappointed.
+
+ENDING 3 of 4
+
+INCORRECT INPUT <100
+Your register’s short and it’s only been one transaction.
+Bro.
+There’s no way you thought that was the right amount.
+I’m sorry man, we’re gonna have to let you go. Empty your locker and head out, I gotta go call corporate about the investments in our wizard hiring team.
+ENDING 4: Why?
+
+ENDING 4 of 4
+
+
+Tell the customer “What do YOU think that will accomplish?”
+
+Gerty looks up at you confused.
+
+ “No, seriously. Explain to me why you thought that would help when you handed me a ten dollar bill. What do you WANT me to do with this? Hand you a pile of change? You understand that once the drawer opens there’s no going back right? Have you ever worked a minimum wage job before?..”
+You watch as gertrude poofs into a fibrous powder. Peering over the counter, you see that where she once stood is a pile of coins and a cookie tin full of sewing supplies.
+Sweet, loot drops!
+
+[50 points… But at what cost?] 
+
+That was not exactly what we in the business call excellent customer service with a smile.
+Hey man, we can accept a lot of things at Magic Burger Palace, one time the line cook Jeff accidentally left his vape in a customer’s burger, and we were able to look past that. But that was too far dude. Hang up your apron and get outta here. 
+You note that you were never given an apron.
+Ending 2: Can I keep the loot though?
+
+ENDING 2 of 4
+
+Play it off like you didn’t say anything. It’s not like she was listening a second ago.
+“You’re lucky my ears fell off years ago, young creature.” She says and takes back the dime.
+[25 points]
+You hand her the change and her cup
+[END INTERACTION]
+[25 points]
+That was a beautiful job done, sport. You knocked it out of the park. Why don’t we tally up your points, then you can go ahead and take the rest of the day off? 
+Huh? More customers?
+Haha, this is a fast food joint in the middle of a magical forest that you can only get to through a side path with a dungeon key. We don’t see many customers.
+Plus, it’s a Wednesday.
+ENDING 1: Thank God I Got Cut Early
+
+ENDING 1 of 4
+
+
+Endgame:
+At least for now, your quest at Magic Burger Palace has come to an end, PLAYER NAME.
+You scored NUMBER points.
+You unlocked Ending X of 4.
+
